@@ -1,6 +1,5 @@
 Create kotlin page
 create arijan_master_pagina
 Create Arijan_page
-Create page webview
 Create page dashboard
 Create page login
